@@ -1,1 +1,3 @@
-# ui-library--test
+# ui-library-test
+
+Адаптивка отсутствует
